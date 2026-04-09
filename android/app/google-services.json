@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "39442006147",
+    "project_id": "koraa-5afaa",
+    "storage_bucket": "koraa-5afaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39442006147:android:d8d23cc7adc7e1a4529bb6",
+        "android_client_info": {
+          "package_name": "com.example.dashpord"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOHRiMtMGyfne5U9-NO7fcmKFTxKd1iRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39442006147:android:526e64a7a2c9038e529bb6",
+        "android_client_info": {
+          "package_name": "com.example.korrrrrrrr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOHRiMtMGyfne5U9-NO7fcmKFTxKd1iRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
