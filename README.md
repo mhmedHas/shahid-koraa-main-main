@@ -52,7 +52,7 @@
 - ✅ **إدارة الإعلانات** - التحكم في إعدادات AdMob
 
 ### 🎯 **ميزات إضافية**
-- ✅ **إشعارات فورية** - تنبيهات عند بدء المباريات
+-
 - ✅ **تقييم المحتوى** - تقييمات ومراجعات المستخدمين
 - ✅ **المشاهدة لاحقاً** - حفظ المحتوى للمشاهدة لاحقاً
 - ✅ **المفضلة** - إضافة قنوات وأفلام للمفضلة
@@ -62,20 +62,29 @@
 ## 📸 لقطات الشاشة
 
 ### الشاشة الرئيسية وقنوات البث
+<p align="center">
+  <img src="assets/icon.png" width="150" alt="Logo">
+</p>
+
+## 📸 لقطات الشاشة
+
+### قنوات البث المباشر
 <div align="center">
-  <img src="assets/screenshots/1.jpeg" width="200" alt="قنوات البث المباشر">
-  <img src="assets/screenshots/2.jpeg" width="200" alt="مكتبة الأفلام">
-  <img src="assets/screenshots/3.jpeg" width="200" alt="المباريات">
-  <img src="assets/screenshots/4.jpeg" width="200" alt="مكتبة المسلسلات">
+  <img src="assets/screenshot/1.jpeg" width="200" alt="قنوات البث">
+  <img src="assets/screenshot/3.jpeg" width="200" alt="المباريات">
 </div>
 
-### مكتبات المحتوى
+### مكتبة الأفلام
 <div align="center">
-  <img src="assets/screenshots/6.jpeg" width="200" alt="تفاصيل المسلسل">
-  <img src="assets/screenshots/7.jpeg" width="200" alt="قائمة المسلسلات">
+  <img src="assets/screenshot/2.jpeg" width="200" alt="الأفلام">
 </div>
 
----
+### مكتبة المسلسلات
+<div align="center">
+  <img src="assets/screenshot/4.jpeg" width="200" alt="المسلسلات">
+  <img src="assets/screenshot/6.jpeg" width="200" alt="مسلسلات">
+  <img src="assets/screenshot/7.jpeg" width="200" alt="قائمة المسلسلات">
+</div>
 
 ## 🎯 وصف اللقطات
 
